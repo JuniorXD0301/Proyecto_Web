@@ -1,0 +1,18 @@
+.balance-general{
+    text-align: center;
+}
+
+.button{
+    margin: 10px;
+    width: 100px;
+    font-size: medium;
+}
+
+.button-option{
+    margin-left: 90%;
+    width: auto;
+    height: auto;
+}
+body{
+    background-color: #1F377D;
+}
